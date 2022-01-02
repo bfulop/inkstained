@@ -658,7 +658,7 @@
       "name": "Keyword Control",
       "scope": "keyword.control",
       "settings": {
-        "foreground": "#b4afa2"
+        "foreground": "#929cad"
       }
     },
     {
@@ -680,14 +680,15 @@
       "name": "Storage",
       "scope": "storage",
       "settings": {
-        "foreground": "#b4afa2"
+        "foreground": "#608f8e"
       }
     },
     {
       "name": "Storage JS TS",
       "scope": "token.storage",
       "settings": {
-        "foreground": "#b4afa2"
+        "foreground": "#b4afa2",
+        "fontStyle": "italic bold"
       }
     },
     {
@@ -764,7 +765,8 @@
       "name": "Integers",
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#5e99b1"
+        "foreground": "#5e99b1",
+        "fontStyle": "bold"
       }
     },
     {
@@ -1830,7 +1832,7 @@
       "scope": "comment, punctuation.definition.comment",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#bdbbb6"
+        "foreground": "#929cad"
       }
     },
     {
@@ -1881,6 +1883,22 @@
       "scope": "markup.italic.markdown",
       "settings": {
         "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "meta.type.parameters.ts",
+      "scope": "meta.type.parameters.ts, entity.name.type, support.type.primitive.ts",
+      "settings": {
+        "foreground": "#557498",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "meta.type.parameters.ts",
+      "scope": "entity.name.type.module.ts",
+      "settings": {
+        "foreground": "#557498",
+        "fontStyle": "bold italic"
       }
     }
   ],
@@ -1949,7 +1967,7 @@
     "button.secondaryBackground": "#697383",
     "button.secondaryHoverBackground": "#555f6f",
     "input.background": "#ffffff",
-    "input.border": "#00000000",
+    "input.border": "#c6c6c6",
     "input.foreground": "#56759a",
     "inputOption.activeBackground": "#6aaad533",
     "inputOption.activeBorder": "#007acc00",
@@ -1986,15 +2004,15 @@
     "editorIndentGuide.background": "#dfddd7a9",
     "editorIndentGuide.activeBackground": "#d3d1cce5",
     "editorRuler.foreground": "#d3d3d3",
-    "editorBracketMatch.background": "#cbd7dc",
-    "editorBracketMatch.border": "#a05b8944",
+    "editorBracketMatch.background": "#c8d7ddcf",
+    "editorBracketMatch.border": "#a05b8900",
     "editor.foldBackground": "#add6ff4d",
     "editorOverviewRuler.background": "#25252500",
     "editorOverviewRuler.border": "#7f7f7f4d",
     "editorError.foreground": "#edb8c4",
     "editorError.background": "#B73A3400",
     "editorError.border": "#ffffff00",
-    "editorWarning.foreground": "#e9a700",
+    "editorWarning.foreground": "#e0ba1a48",
     "editorWarning.background": "#A9904000",
     "editorWarning.border": "#ffffff00",
     "editorInfo.foreground": "#75beff",
@@ -2051,13 +2069,13 @@
     "tab.inactiveForeground": "#bdbbb6",
     "scrollbarSlider.background": "#dfddd76e",
     "scrollbarSlider.hoverBackground": "#dfddd7a7",
-    "scrollbarSlider.activeBackground": "#dfddd7",
+    "scrollbarSlider.activeBackground": "#bac0ec00",
     "progressBar.background": "#5e99b1",
     "widget.shadow": "#00000000",
     "editorWidget.foreground": "#557498",
     "editorWidget.background": "#edebe9",
     "editorWidget.resizeBorder": "#5e99b19f",
-    "pickerGroup.border": "#bac0ec00",
+    "pickerGroup.border": "#c6c6c6",
     "pickerGroup.foreground": "#9784ae",
     "debugToolBar.background": "#edebe9",
     "debugToolBar.border": "#cbd7dc",
@@ -2090,13 +2108,13 @@
     "merge.incomingContentBackground": "#DBECFF",
     "merge.commonHeaderBackground": "#BFBFBF",
     "merge.commonContentBackground": "#E5E5E5",
-    "editorSuggestWidget.background": "#edebe9",
+    "editorSuggestWidget.background": "#f5f4f3",
     "editorSuggestWidget.border": "#dfddd785",
     "editorSuggestWidget.foreground": "#557498",
     "editorSuggestWidget.highlightForeground": "#557498",
     "editorSuggestWidget.selectedBackground": "#dfddd785",
     "editorHoverWidget.foreground": "#557498",
-    "editorHoverWidget.background": "#edebe9",
+    "editorHoverWidget.background": "#f5f4f3",
     "editorHoverWidget.border": "#dfddd785",
     "peekView.border": "#5574984c",
     "peekViewEditor.background": "#edebe9",
