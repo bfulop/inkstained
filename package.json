@@ -3,6 +3,10 @@
     "displayName": "inkstained",
     "description": "based on the vim theme",
     "publisher": "bfulop",
+    "repository": {
+        "url": "https://github.com/bfulop/inkstained.git",
+        "type": "git"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.63.0"
