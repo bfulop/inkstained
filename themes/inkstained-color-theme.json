@@ -1,7 +1,7 @@
 {
   "name": "Inkstained - Fork - Fork",
   "type": "light",
-  "semanticHighlighting": true,
+  "semanticHighlighting": false,
   "semanticTokenColors": {
     "enumMember": {
       "foreground": "#7593bb"
@@ -1943,7 +1943,7 @@
     "statusBar.debuggingForeground": "#ffffff",
     "statusBar.noFolderBackground": "#bdbbb6",
     "statusBar.noFolderForeground": "#ffffff",
-    "statusBarItem.remoteBackground": "#16825d",
+    "statusBarItem.remoteBackground": "#608f8e",
     "statusBarItem.remoteForeground": "#ffffff",
     "titleBar.activeBackground": "#edebe9",
     "titleBar.activeForeground": "#557498",
@@ -2112,7 +2112,7 @@
     "editorSuggestWidget.border": "#dfddd785",
     "editorSuggestWidget.foreground": "#557498",
     "editorSuggestWidget.highlightForeground": "#557498",
-    "editorSuggestWidget.selectedBackground": "#dfddd785",
+    "editorSuggestWidget.selectedBackground": "#557498",
     "editorHoverWidget.foreground": "#557498",
     "editorHoverWidget.background": "#f5f4f3",
     "editorHoverWidget.border": "#dfddd785",
