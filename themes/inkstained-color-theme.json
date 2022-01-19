@@ -1,5 +1,5 @@
 {
-  "name": "Inkstained - Fork - Fork",
+  "name": "Inkstained",
   "type": "light",
   "semanticHighlighting": false,
   "semanticTokenColors": {
@@ -338,7 +338,7 @@
       "scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
       "settings": {
         "foreground": "#557498",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -604,8 +604,8 @@
         "variable.function"
       ],
       "settings": {
-        "foreground": "#aa586e",
-        "fontStyle": "italic bold"
+        "foreground": "#5e99b1",
+        "fontStyle": "bold italic"
       }
     },
     {
@@ -681,7 +681,7 @@
       "name": "Storage",
       "scope": "storage",
       "settings": {
-        "foreground": "#557498",
+        "foreground": "#aa586e",
         "fontStyle": "bold"
       }
     },
@@ -711,7 +711,8 @@
       "name": "Support",
       "scope": "support.function",
       "settings": {
-        "foreground": "#7593bb"
+        "foreground": "#7593bb",
+        "fontStyle": "italic"
       }
     },
     {
@@ -1892,7 +1893,7 @@
       "scope": "meta.type.parameters.ts, entity.name.type, support.type.primitive.ts",
       "settings": {
         "foreground": "#b0789b",
-        "fontStyle": ""
+        "fontStyle": "bold"
       }
     },
     {
