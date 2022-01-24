@@ -337,8 +337,8 @@
       "name": "js variable readwrite",
       "scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
       "settings": {
-        "foreground": "#557498",
-        "fontStyle": ""
+        "foreground": "#5e99b1",
+        "fontStyle": "bold"
       }
     },
     {
@@ -604,8 +604,8 @@
         "variable.function"
       ],
       "settings": {
-        "foreground": "#5e99b1",
-        "fontStyle": "bold italic"
+        "foreground": "#aa586e",
+        "fontStyle": "italic"
       }
     },
     {
@@ -681,7 +681,7 @@
       "name": "Storage",
       "scope": "storage",
       "settings": {
-        "foreground": "#aa586e",
+        "foreground": "#557498",
         "fontStyle": "bold"
       }
     },
@@ -1912,7 +1912,7 @@
     "list.errorForeground": "#aa586e",
     "list.warningForeground": "#bdbbb6",
     "selection.background": "#cbd7dc",
-    "scrollbar.shadow": "#cfd9d9",
+    "scrollbar.shadow": "#edebe9",
     "activityBar.foreground": "#557498",
     "activityBar.background": "#edebe9",
     "activityBar.inactiveForeground": "#dfddd7",
@@ -2075,12 +2075,12 @@
     "tab.inactiveForeground": "#bdbbb6",
     "scrollbarSlider.background": "#dfddd76e",
     "scrollbarSlider.hoverBackground": "#dfddd7a7",
-    "scrollbarSlider.activeBackground": "#bac0ec00",
+    "scrollbarSlider.activeBackground": "#557498",
     "progressBar.background": "#5e99b1",
-    "widget.shadow": "#00000000",
+    "widget.shadow": "#dfddd7a7",
     "editorWidget.foreground": "#557498",
     "editorWidget.background": "#edebe9",
-    "editorWidget.resizeBorder": "#5e99b19f",
+    "editorWidget.resizeBorder": "#00000000",
     "pickerGroup.border": "#c6c6c6",
     "pickerGroup.foreground": "#9784ae",
     "debugToolBar.background": "#edebe9",
