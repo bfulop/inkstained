@@ -605,7 +605,6 @@
       ],
       "settings": {
         "foreground": "#aa586e",
-        "fontStyle": "italic"
       }
     },
     {
@@ -1985,7 +1984,7 @@
     "editorLineNumber.foreground": "#bdbbb6",
     "editorCursor.foreground": "#dc7786",
     "editorCursor.background": "#eee4e5",
-    "editor.selectionBackground": "#ff385b3a",
+    "editor.selectionBackground": "#7bded56d",
     "editor.inactiveSelectionBackground": "#b7dbea48",
     "editorWhitespace.foreground": "#d3cebe6e",
     "editor.selectionHighlightBackground": "#d3d1cc43",
@@ -2051,7 +2050,7 @@
     "terminal.foreground": "#557498",
     "terminal.selectionBackground": "#cfd9d950",
     "terminalCursor.background": "#dc7786c9",
-    "terminalCursor.foreground": "#ffebee",
+    "terminalCursor.foreground": "#DC7786",
     "terminal.border": "#a1cbdb4c",
     "terminal.ansiBlack": "#000000",
     "terminal.ansiBlue": "#5e99b1",
