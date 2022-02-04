@@ -2018,6 +2018,7 @@
     "editorBracketHighlight.foreground4": "#5e99b1",
     "editorBracketHighlight.foreground5": "#bdbbb6",
     "editorBracketHighlight.foreground6": "#7c6a93",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#aa586e",
     "editor.foldBackground": "#d3d1cc39",
     "editorOverviewRuler.background": "#25252500",
     "editorOverviewRuler.border": "#7f7f7f4d",
