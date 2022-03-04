@@ -2156,7 +2156,7 @@
     "minimap.selectionHighlight": "#c2edff99",
     "minimap.errorHighlight": "#edb8c4",
     "minimap.warningHighlight": "#e9a700",
-    "minimap.background": "#edebe9",
+    "minimap.background": "#ffffff00",
     "sideBar.dropBackground": "#dfddd7",
     "editorGroup.emptyBackground": "#edebe9",
     "panelSection.border": "#a1cbdb4c",
