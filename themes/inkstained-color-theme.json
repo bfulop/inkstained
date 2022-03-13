@@ -1984,7 +1984,7 @@
     "editorLineNumber.foreground": "#bdbbb6",
     "editorCursor.foreground": "#dc7786",
     "editorCursor.background": "#eee4e5",
-    "editor.selectionBackground": "#c4e0d798",
+    "editor.selectionBackground": "#eec0c0f5",
     "editor.inactiveSelectionBackground": "#b7dbea48",
     "editorWhitespace.foreground": "#d3cebe6e",
     "editor.selectionHighlightBackground": "#d3d1cc43",
