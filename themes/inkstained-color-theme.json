@@ -604,7 +604,54 @@
         "variable.function"
       ],
       "settings": {
-        "foreground": "#aa586e",
+        "foreground": "#b0789b",
+      }
+    },
+    {
+      "name": "Function member",
+      "scope": [
+        "meta.object-literal.key.ts",
+        "meta.object.member.ts"
+      ],
+      "settings": {
+        "foreground": "#7593bb",
+      }
+    },
+    {
+      "name": "React child",
+      "scope": [
+        "support.class.component.tsx",
+        "entity.name.tag.tsx",
+        "meta.tag.tsx",
+        "meta.jsx.children.tsx",
+        "meta.function.expression.tsx"
+      ],
+      "settings": {
+        "foreground": "#b0789b",
+      }
+    },
+    {
+      "name": "Type parameters",
+      "scope": [
+        "punctuation.definition.typeparameters.begin.tsx",
+        "meta.type.parameters.tsx",
+        "meta.type.annotation.tsx",
+        "meta.var.expr.tsx",
+      ],
+      "settings": {
+        "foreground": "#557498",
+      }
+    },
+    {
+      "name": "React attribute",
+      "scope": [
+        "entity.other.attribute-name.tsx",
+        "meta.tag.attributes.tsx",
+        "meta.tag.tsx",
+        "meta.jsx.children.tsx",
+      ],
+      "settings": {
+        "foreground": "#557498",
       }
     },
     {
@@ -2151,14 +2198,15 @@
     "dropdown.border": "#00000000",
     "minimapGutter.addedBackground": "#81b88b9f",
     "minimapGutter.modifiedBackground": "#5e99b164",
-    "minimapGutter.deletedBackground": "#ca4b517c",
+    "minimapGutter.deletedBackground": "#edb8c4",
     "minimap.findMatchHighlight": "#4fc1ff8d",
     "minimap.selectionHighlight": "#c2edff99",
-    "minimap.errorHighlight": "#edb8c4",
+    "minimap.errorHighlight": "#ca4b517c",
     "minimap.warningHighlight": "#e9a700",
-    "minimap.background": "#ffffff00",
+    "minimap.background": "#edebe991",
     "minimapSlider.background": "#d3d1cc46",
     "sideBar.dropBackground": "#dfddd7",
+    "minimap.foregroundOpacity": "#ffffffbf",
     "editorGroup.emptyBackground": "#edebe9",
     "panelSection.border": "#a1cbdb4c",
     "statusBarItem.activeBackground": "#FFFFFF25",
