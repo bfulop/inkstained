@@ -631,15 +631,55 @@
       }
     },
     {
-      "name": "Type parameters",
+      "name": "Type parameters TS",
       "scope": [
-        "punctuation.definition.typeparameters.begin.tsx",
+        "entity.name.type.module.ts",
+        "meta.type.parameters.ts",
+        "meta.type.annotation.ts",
+        "meta.var-single-variable.expr.ts",
+        "meta.var.expr.ts",
+        "source.ts",
+      ],
+      "settings": {
+        "foreground": "#5398cc",
+      }
+    },
+    {
+      "name": "Type parameters primitive TS",
+      "scope": [
+        "support.type.primitive.ts",
+        "meta.type.parameters.ts",
+        "meta.type.annotation.ts",
+        "meta.var-single-variable.expr.ts",
+        "meta.var.expr.ts",
+        "source.ts",
+      ],
+      "settings": {
+        "foreground": "#5398cc",
+      }
+    },
+    {
+      "name": "Type parameters TSX",
+      "scope": [
+        "punctuation.definition.typeparameters.begin.ts",
         "meta.type.parameters.tsx",
         "meta.type.annotation.tsx",
         "meta.var.expr.tsx",
       ],
       "settings": {
-        "foreground": "#557498",
+        "foreground": "#b0789b",
+      }
+    },
+    {
+      "name": "Type parameters TSX",
+      "scope": [
+        "punctuation.definition.typeparameters.end.ts",
+        "meta.type.parameters.tsx",
+        "meta.type.annotation.tsx",
+        "meta.var.expr.tsx",
+      ],
+      "settings": {
+        "foreground": "#b0789b",
       }
     },
     {
@@ -698,7 +738,7 @@
       "name": "Type Name",
       "scope": "entity.name.type",
       "settings": {
-        "foreground": "#aa586e"
+        "foreground": "#5398cc",
       }
     },
     {
@@ -1353,7 +1393,8 @@
       "name": "ts primitive/builtin types",
       "scope": "support.type.primitive.ts,support.type.builtin.ts,support.type.primitive.tsx,support.type.builtin.tsx",
       "settings": {
-        "foreground": "#aa586e"
+        "foreground": "#5398cc",
+        "fontStyle": "bold"
       }
     },
     {
@@ -1934,22 +1975,6 @@
         "fontStyle": "italic"
       }
     },
-    {
-      "name": "meta.type.parameters.ts",
-      "scope": "meta.type.parameters.ts, entity.name.type, support.type.primitive.ts",
-      "settings": {
-        "foreground": "#b0789b",
-        "fontStyle": "bold"
-      }
-    },
-    {
-      "name": "meta.type.parameters.ts",
-      "scope": "entity.name.type.module.ts",
-      "settings": {
-        "foreground": "#557498",
-        "fontStyle": "bold italic"
-      }
-    }
   ],
   "colors": {
     "foreground": "#557498",
