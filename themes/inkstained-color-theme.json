@@ -642,6 +642,7 @@
       ],
       "settings": {
         "foreground": "#5398cc",
+        "fontStyle": "italic"
       }
     },
     {
@@ -668,6 +669,7 @@
       ],
       "settings": {
         "foreground": "#b0789b",
+        "fontStyle": "italic bold"
       }
     },
     {
@@ -680,6 +682,7 @@
       ],
       "settings": {
         "foreground": "#b0789b",
+        "fontStyle": "italic bold"
       }
     },
     {
