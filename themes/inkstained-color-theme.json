@@ -200,7 +200,7 @@
       "name": "js/ts variable.other.constant",
       "scope": "variable.other.constant",
       "settings": {
-        "foreground": "#557498",
+        "foreground": "#7593bb",
         "fontStyle": ""
       }
     },
@@ -334,18 +334,28 @@
       }
     },
     {
+      "name": "entity.name.type.module",
+      "scope": [
+        "meta.type.annotation.tsx, meta.type.annotation.ts",
+        "entity.name.type.module"
+      ],
+      "settings": {
+        "foreground": "#5398cc",
+        "fontStyle": "italic"
+      }
+    },
+    {
       "name": "js variable readwrite",
       "scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
       "settings": {
-        "foreground": "#5e99b1",
-        "fontStyle": "bold"
+        "foreground": "#557498",
       }
     },
     {
       "name": "js/ts json",
       "scope": "support.constant.json",
       "settings": {
-        "foreground": "#5e99b1"
+        "foreground": "#557498"
       }
     },
     {
@@ -1340,7 +1350,6 @@
       "scope": "function.parameter",
       "settings": {
         "foreground": "#557498",
-        "fontStyle": "bold"
       }
     },
     {
