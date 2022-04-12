@@ -200,7 +200,7 @@
       "name": "js/ts variable.other.constant",
       "scope": "variable.other.constant",
       "settings": {
-        "foreground": "#7593bb",
+        "foreground": "#5398cc",
         "fontStyle": ""
       }
     },
@@ -330,7 +330,7 @@
       "name": "entity.name.type.module",
       "scope": "entity.name.type.module",
       "settings": {
-        "foreground": "#aa586e"
+        "foreground": "#9784ae"
       }
     },
     {
@@ -340,7 +340,7 @@
         "entity.name.type.module"
       ],
       "settings": {
-        "foreground": "#5398cc",
+        "foreground": "#9784ae",
         "fontStyle": "italic"
       }
     },
@@ -624,7 +624,7 @@
         "meta.object.member.ts"
       ],
       "settings": {
-        "foreground": "#7593bb",
+        "foreground": "#5398cc",
       }
     },
     {
@@ -651,7 +651,7 @@
         "source.ts",
       ],
       "settings": {
-        "foreground": "#5398cc",
+        "foreground": "#9784ae",
         "fontStyle": "italic"
       }
     },
@@ -666,7 +666,7 @@
         "source.ts",
       ],
       "settings": {
-        "foreground": "#5398cc",
+        "foreground": "#9784ae",
       }
     },
     {
@@ -678,7 +678,7 @@
         "meta.var.expr.tsx",
       ],
       "settings": {
-        "foreground": "#b0789b",
+        "foreground": "#557498",
         "fontStyle": "italic bold"
       }
     },
@@ -691,7 +691,7 @@
         "meta.var.expr.tsx",
       ],
       "settings": {
-        "foreground": "#b0789b",
+        "foreground": "#557498",
         "fontStyle": "italic bold"
       }
     },
@@ -711,7 +711,7 @@
       "name": "Classes",
       "scope": "entity.name.type.namespace",
       "settings": {
-        "foreground": "#aa586e"
+        "foreground": "#9784ae"
       }
     },
     {
@@ -726,7 +726,7 @@
       "name": "Class name",
       "scope": "entity.name.class.identifier.namespace.type",
       "settings": {
-        "foreground": "#aa586e"
+        "foreground": "#9784ae"
       }
     },
     {
@@ -751,7 +751,7 @@
       "name": "Type Name",
       "scope": "entity.name.type",
       "settings": {
-        "foreground": "#5398cc",
+        "foreground": "#9784ae",
       }
     },
     {
@@ -854,6 +854,16 @@
       "scope": "entity.other.inherited-class",
       "settings": {
         "foreground": "#aa586e"
+      }
+    },
+    {
+      "name": "Inherited Class",
+      "scope": [
+        "meta.interface.ts",
+        "entity.other.inherited-class"
+      ],
+      "settings": {
+        "foreground": "#9784ae"
       }
     },
     {
@@ -1405,7 +1415,7 @@
       "name": "ts primitive/builtin types",
       "scope": "support.type.primitive.ts,support.type.builtin.ts,support.type.primitive.tsx,support.type.builtin.tsx",
       "settings": {
-        "foreground": "#5398cc",
+        "foreground": "#9784ae",
         "fontStyle": "bold"
       }
     },
